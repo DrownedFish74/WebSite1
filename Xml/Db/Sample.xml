@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Sample>
+
+   <!-- 取得 -->
+  <Get>
+    <Statement>
+      <![CDATA[
+        SELECT  *
+          FROM  Sample
+         WHERE  id = @id
+      ]]>
+    </Statement>
+    <Parameter>
+      <Input Name="id" Type="nvarchar" Size="10" />
+    </Parameter>
+  </Get>
+
+  <!-- 更新 -->
+  <Update>
+    <Statement>
+      <![CDATA[
+        UPDATE  Sample
+           SET  text = @text
+         WHERE  id = @id
+      ]]>
+    </Statement>
+    <Parameter>
+      <Input Name="id" Type="nvarchar" Size="10" />
+      <Input Name="text" Type="nvarchar" Size="50" />
+    </Parameter>
+  </Update>
+  
+</Sample>
