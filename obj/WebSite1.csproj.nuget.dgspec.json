@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/yuiko/projects/WebSite1/WebSite1.csproj": {}
+    "/home/yuiko/WebSite1/WebSite1.csproj": {}
   },
   "projects": {
-    "/Users/yuiko/projects/WebSite1/WebSite1.csproj": {
+    "/home/yuiko/WebSite1/WebSite1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/yuiko/projects/WebSite1/WebSite1.csproj",
+        "projectUniqueName": "/home/yuiko/WebSite1/WebSite1.csproj",
         "projectName": "WebSite1",
-        "projectPath": "/Users/yuiko/projects/WebSite1/WebSite1.csproj",
-        "packagesPath": "/Users/yuiko/.nuget/packages/",
-        "outputPath": "/Users/yuiko/projects/WebSite1/obj/",
+        "projectPath": "/home/yuiko/WebSite1/WebSite1.csproj",
+        "packagesPath": "/home/yuiko/.nuget/packages/",
+        "outputPath": "/home/yuiko/WebSite1/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/yuiko/.nuget/NuGet/NuGet.Config"
+          "/home/yuiko/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"
@@ -50,7 +50,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.302/RuntimeIdentifierGraph.json"
         }
       }
     }

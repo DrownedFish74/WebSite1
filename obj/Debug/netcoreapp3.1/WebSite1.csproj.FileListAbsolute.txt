@@ -2,3 +2,7 @@
 /Users/yuiko/projects/WebSite1/obj/Debug/netcoreapp3.1/WebSite1.AssemblyInfoInputs.cache
 /Users/yuiko/projects/WebSite1/obj/Debug/netcoreapp3.1/WebSite1.AssemblyInfo.cs
 /Users/yuiko/projects/WebSite1/obj/Debug/netcoreapp3.1/WebSite1.csproj.CoreCompileInputs.cache
+/home/yuiko/WebSite1/obj/Debug/netcoreapp3.1/WebSite1.csprojAssemblyReference.cache
+/home/yuiko/WebSite1/obj/Debug/netcoreapp3.1/WebSite1.AssemblyInfoInputs.cache
+/home/yuiko/WebSite1/obj/Debug/netcoreapp3.1/WebSite1.AssemblyInfo.cs
+/home/yuiko/WebSite1/obj/Debug/netcoreapp3.1/WebSite1.csproj.CoreCompileInputs.cache
