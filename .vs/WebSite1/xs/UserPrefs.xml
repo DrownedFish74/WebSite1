@@ -1,0 +1,41 @@
+﻿<Properties StartupConfiguration="{225A2BBF-C8A3-4070-84DE-447E597828D5}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Web.Debug.config">
+    <Files>
+      <File FileName="Default.aspx" Line="13" Column="11" />
+      <File FileName="Default.aspx.cs" />
+      <File FileName="Web.config" />
+      <File FileName="Web.Debug.config" Line="18" Column="57" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Option id="ShowAllFiles" value="True" />
+          <Node name="WebSite1" expanded="True">
+            <Node name="WebSite1" expanded="True">
+              <Node name="Dependencies" expanded="True">
+                <Node name="AssemblyDependencies" expanded="True" />
+                <Node name="FrameworkReferences" expanded="True">
+                  <Node name="Microsoft.NETCore.App" selected="True" />
+                </Node>
+                <Node name="PackageDependencies" expanded="True" />
+              </Node>
+              <Node name="App_Data" expanded="True" />
+              <Node name="Bin" expanded="True" />
+              <Node name="Logs" expanded="True" />
+              <Node name="Xml" expanded="True">
+                <Node name="Db" expanded="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.WebSite1 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
